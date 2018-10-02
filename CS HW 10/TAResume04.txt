@@ -1,0 +1,5 @@
+Name: Hyder Hasnain 
+GPA: 1.371
+Hyder is on homework team and writes MATLAB problems for fun
+Education: Georgia Tech
+Skills: writing MATLAB homework about bricks, BME

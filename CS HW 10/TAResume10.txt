@@ -1,0 +1,6 @@
+Name: Michael Avidano
+I enjoy hiking. I used to write all the MATLAB exams.
+Skills: MATLAB, MATLAB exams, ORGT
+Now Chris writes all the MATLAB exams.
+GPA: 1.371
+Education: Georgia Institute of Technology

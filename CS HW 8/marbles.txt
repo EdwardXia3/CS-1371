@@ -1,0 +1,11 @@
+function numMarblesEst = marbles(heightC, diameterC, diameterMarbleEst)
+% Calculate the radii of the container and the marble
+radiusC = diameterC./2;
+radiusMarbleEst = diameterMarbleEst./2;
+% Calculate the volume of the container and of a marble
+containerVol = pi.*(radiusC.^2).*heightC;
+marbleVolEst = (4/3).*pi.*(radiusMarbleEst.^3);
+% Calculate the estimated number of marbles
+% (rounded to next whole marble, using ceil)
+numMarblesEst = ceil(containerVol ./ marbleVolEst);
+end

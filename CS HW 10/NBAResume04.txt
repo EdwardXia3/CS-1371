@@ -1,0 +1,6 @@
+Name: Chris Bosh
+Skills: MATLAB, basketball
+Education: Georgia Tech
+GPA: 19.2
+Championships: 2
+I took 1371 and learned MATLAB while I was a student here. 

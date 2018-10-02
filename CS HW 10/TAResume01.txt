@@ -1,0 +1,6 @@
+Name: Chris Pham
+Chris writes all MATLAB tests. 
+GPA: 1.371
+Hobbies: writing MATLAB tests, RA'ing, tennis
+Education: Georgia Institute of Technology
+Skills: MATLAB, writing tests, tennis
