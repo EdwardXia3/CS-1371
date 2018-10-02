@@ -1,7 +1,0 @@
-Name: Ryan Williams
-Major: MATLAB
-Interests: MATLAB, MATLAB Swag, MATLABing
-GPA: 1.371
-
-Skills: MATLAB, finding Waldo
-Education: Georgia Institute of Technology

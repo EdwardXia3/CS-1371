@@ -1,7 +1,0 @@
-Name: Paul Johnson
-GPA: 3
-Education: Georgia Institute of Technology
-Skills:  triple option,     triple threat,     triple anything
-
-Favourite Play: run it on 4th
-Concerns: some of the players love MATLAB more than they love playing football

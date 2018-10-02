@@ -1,4 +1,0 @@
-Name: Alex Lobo
-GPA: 1.371
-Education: Georgia Institute of Technology
-Skills: solving puzzle boxes, MATLAB

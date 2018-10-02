@@ -1,8 +1,0 @@
-1. I chose the snake project because I wanted to understand conceptually 
-how a simple game could be made.
-2. I solved to problem by creating a array that represented components of the
-snake and plotted that array with colors to represent the snake and the food.
-Since the previously done code related to Snake suggested the array and plotting,
-I just based it off that.
-3. I learned how to use parts of of uicontrol, how to create simple animations, 
-and the concept of the KeyPressFcn.

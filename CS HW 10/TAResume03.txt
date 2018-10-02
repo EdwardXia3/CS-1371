@@ -1,9 +1,0 @@
-Name: Edward Foyle
-Edward writes all the MATLAB homework problems
-I know all the MATLAB functions
-Skills: MATLAB, MATLAB GUI, MATLAB JSONgen
-GPA: 1.371
-Education: Georgia Tech
-
-Major: MATLAB
-Minor: CS

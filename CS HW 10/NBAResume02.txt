@@ -1,8 +1,0 @@
-Name: LeBron James
-Favourite Quote: I'm taking my talent to South Beach
-Skills: dunking, flying
-Education: St. Vincent - St. Mary High School
-GPA: 27.2
-Championships: 3
-MVPs: not 1, not 2, not 3...
-What's MATLAB?

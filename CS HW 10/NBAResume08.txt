@@ -1,5 +1,0 @@
-Name: James Harden
-Skills: beard growing, cooking, defense, MATLAB
-Education: Arizona State University
-GPA: 21.1
-Championships: 0

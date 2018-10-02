@@ -1,6 +1,0 @@
-Education: Georgia Tech
-
-GPA: 1.371
-Sree loves Pokemon and Pokemon-related MATLAB problems
-Skills: MATLAB, TAing, basketball
-Name: Sree Tripuramallu

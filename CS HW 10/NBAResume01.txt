@@ -1,8 +1,0 @@
-Name: Kobe Bryant
-I will pass my MATLAB course. JK, I never pass. 
-Skills: fadeaways, game winners,  passing
-Education: Lower Merion High School
-GPA: 25
-Championships: 5
-
-Pursuits after Retirement: become a MATLAB instructor

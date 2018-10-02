@@ -1,5 +1,0 @@
-meatloaf,66
-thePunisher,55
-windowPane,55
-thomasPaine,88
-neckPain,34

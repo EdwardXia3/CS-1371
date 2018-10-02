@@ -1,6 +1,0 @@
-Name:Justin Thomas
-Major: Business Administration 
-I don't know MATLAB but I heard it's a really fun!
-GPA: 3.15
-Education: Georgia Tech   
-Skills: running, throwing    

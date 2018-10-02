@@ -1,6 +1,0 @@
-Name: Mark Price
-Skills: 3-point competition, MATLAB, coaching
-Education: Georgia Institute of Technology
-GPA: 15.2
-Championships: 0
-I took 1371 and learned MATLAB while I was a student here. 

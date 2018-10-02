@@ -1,9 +1,0 @@
-Instructions for moving 3 bales of hay from A to B:
-
-Move top bale from A to B.
-Move top bale from A to C.
-Move top bale from B to C.
-Move top bale from A to B.
-Move top bale from C to A.
-Move top bale from C to B.
-Move top bale from A to B.
