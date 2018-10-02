@@ -1,0 +1,5 @@
+blazingSaddles,30
+cerealMan,22
+cottageCheese,24
+magicFingers,38
+snakeMaster,40

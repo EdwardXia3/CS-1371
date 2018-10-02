@@ -1,0 +1,7 @@
+Name: David Mesina
+
+Education: Georgia Institute of Technology
+GPA: 1.371
+Hobbies: writing MATLAB tests
+Education: Georgia Institute of Technology
+Skills: MATLAB, tennis

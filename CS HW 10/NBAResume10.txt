@@ -1,0 +1,6 @@
+Name: Kyle Korver
+Skills: shooting, shooting, shooting
+Education: Creighton University
+GPA: 10
+Championships: 0
+I love shooting and occasionally MATLAB. 

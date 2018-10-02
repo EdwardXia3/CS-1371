@@ -1,0 +1,7 @@
+GPA: 1.371
+Name: Tyler Wan
+Major: BME
+Education: Georgia Tech
+Homework: election(), brickLayer()
+
+Skills: MATLAB, volleyball 
